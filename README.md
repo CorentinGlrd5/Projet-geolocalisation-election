@@ -1,4 +1,4 @@
-# Electron
+# Projet géolocalisation avec Electron
 
 
 # Clonez le dépôt Quick Start
