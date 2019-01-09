@@ -1,4 +1,4 @@
-# NetediaElectron
+# Electron
 
 
 # Clonez le dépôt Quick Start
