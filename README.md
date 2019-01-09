@@ -1,7 +1,7 @@
 # Projet géolocalisation avec Electron
 
 
-# Clonez le dépôt Quick Start
+# Clonez le dépôt
 $ git clone https://github.com/CorentinGlrd5/Projet-geolocalisation-election.git
 
 # Allez dans le dépôt
